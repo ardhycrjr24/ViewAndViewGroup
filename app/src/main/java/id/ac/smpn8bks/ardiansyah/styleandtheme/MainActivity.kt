@@ -10,16 +10,3 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 }
-
-<ScrollView
-android:layout_width="match_parent"
-android:layout_height="match_parent">
-
-<LinearLayout
-android:layout_width="match_parent"
-android:layout_height="wrap_content"
-android:orientation="vertical">
-
-</LinearLayout>
-
-</ScrollView>
