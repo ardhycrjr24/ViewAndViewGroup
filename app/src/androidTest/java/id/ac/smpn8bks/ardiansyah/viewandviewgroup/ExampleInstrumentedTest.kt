@@ -1,4 +1,4 @@
-package id.ac.smpn8bks.ardiansyah.styleandtheme
+package id.ac.smpn8bks.ardiansyah.viewandviewgroup
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

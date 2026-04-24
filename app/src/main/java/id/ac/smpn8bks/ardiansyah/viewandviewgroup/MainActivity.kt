@@ -1,4 +1,4 @@
-package id.ac.smpn8bks.ardiansyah.styleandtheme
+package id.ac.smpn8bks.ardiansyah.viewandviewgroup
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
